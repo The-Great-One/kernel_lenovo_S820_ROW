@@ -1,1 +1,0 @@
-# kernel_lenovo_S820
